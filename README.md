@@ -22,7 +22,9 @@ Como objetivo secundário, este projeto é parte dos meus estudos pessoais. E ne
 
 <h3 align ="left"> Origem dos Dados:</h2>
 
-[Inequality in Education Around the Workd](https://www.kaggle.com/datasets/iamsouravbanerjee/inequality-in-education-around-the-world)
+1. [Inequality in Education Around the Workd](https://www.kaggle.com/datasets/iamsouravbanerjee/inequality-in-education-around-the-world)
+2. [Humam Development Reports](https://hdr.undp.org/data-center/documentation-and-downloads)
+
 
 <h3 align ="left"> Quais bibliotecas encontrarei nos notebooks?</h2>
 1. Para ler dados: Pandas 🐼
