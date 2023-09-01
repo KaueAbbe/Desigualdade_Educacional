@@ -6,9 +6,9 @@
 
 <h3 align ="left"> Objetivo: Como evolui a desigualdade educacional no mundo? 🤔</h2>
 
-Eu atuo como pesquisador e cientista de dados, e neste projeto objetivo compreender a evolução da desigualdade educacional no mundo. 
-Desigualdade é uma caractéristica que naturalmente está relacionada com o desenvolvimento do país, e também com o índice de desenvolvimento humano, correto? Está é uma das perguntas que quero responder.
-Além dessa quero compreender como está a evolução da desigualdade no contexto da educação. 
+Desigualdade Educacional é uma questão social presente em todos os países, e que ocorre por diversos motivos. Entre esses motivos há diferenças econômicas, de gênero, cor de pele, geográfica. Independente do motivo, a desigualdade reflete no poder social do país, o qual é mostrado pelo índice de desenvolvimento humano e no grupo de desenvolvimento humano ao qual o país pertence.
+
+Dado este contexto, **o projeto tem como motivação** compreender como está e como evolui a desigualdade mundial no contexto da educação, conectando a relação de mudança na desigualdade índices de desenvolvimento do páis.
 
 Como objetivo secundário, este projeto é parte dos meus estudos pessoais. E neste vou aprimorar meus conhecimentos de ciência de dados, aplicar antigos e novos conhecimentos, realizar pesquisas do projeto e de métodos necessários, e assim desenvolver a habilidade de pesquisador/cientista. No final anseio ter desenvolvimento novas abordagens como cientista e compartilhado minha jornada e aprendizados. 
 
