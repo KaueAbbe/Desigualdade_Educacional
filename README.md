@@ -8,7 +8,7 @@ Análise de desigualdade educacional no mundo, relacionando com o desenvolviment
 | -------------  | --- |
 | :sparkles: Nome        | **Desigualdade Educacional**
 | :label: Tecnologias | Python, Data Science, Machine Learning, Storytelling
-| :rocket: URL         | [https://github.com/KaueAbbe/Challenge_Data_Science1_Alura](https://github.com/KaueAbbe/Desigualdade_Educacional/tree/main)
+| :rocket: URL         | https://github.com/KaueAbbe/Desigualdade_Educacional/tree/main
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 ## Resumo e objetivo do projeto
